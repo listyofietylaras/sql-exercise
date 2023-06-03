@@ -1,1 +1,3 @@
-# sql-database-learning
+# <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="60"> SQL-Database-Learning
+
+*Here are some sample SQL files for you to use to study queries.*
