@@ -1,1 +1,1 @@
-# sql-exercise
+# sql-database-learning
